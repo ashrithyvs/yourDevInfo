@@ -1,8 +1,8 @@
 ## YourDevInfo
 
-In the project directory, you can run: 'npm install' to install dependencies
+In the project directory, you can run: `npm install` to install dependencies
 
-### `yarn start`
+### `yarn start` && `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -23,3 +23,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Contact
 
 ### Mail : ashrithy20@gmail.com
+
+### LinkedIn : linkedin.com/in/ashrith-yakkali-a60379191
